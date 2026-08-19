@@ -1,6 +1,6 @@
 # simpleChat
-overview : imple chat application that does not use a database. Any user who connects to the server should be able to send messages, and all connected users should see all the messages in real time
-# to start the project cammnads are 
+overview : imple chat application that does not use a database. Any user who connects to the same room  should be able to send messages, and all connected users should see all the messages in real time
+# to start the project cammands are 
 clone project ,
 npm i -D typescript 
 npm i 
